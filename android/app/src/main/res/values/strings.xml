@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">calculadora3</string>
+    <string name="title_activity_main">calculadora3</string>
+    <string name="package_name">ionic.calculadora3</string>
+    <string name="custom_url_scheme">ionic.calculadora3</string>
+</resources>
